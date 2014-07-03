@@ -3,6 +3,9 @@
 Acquire mutually exclusive locks in WordPress, using an underlying Memcache
 object cache.
 
+Created by Ryan McCue (@rmccue) and Theo Savage (@tcrsavage), at
+[Human Made Limited](http://hmn.md/) (@humanmade).
+
 
 ## Requirements
 
@@ -174,7 +177,9 @@ if the key does not already exist.
 Check the source of `plugin.php` for more documentation on the specifics of
 using the command.
 
+
 ## License
+
 Backdrop is licensed under the GPL version 2.
 
 Copyright 2014 Human Made Limited
